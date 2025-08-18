@@ -1,4 +1,3 @@
-# Practica-y-configuracion-de-git
-Practica de Aplicaciones Moviles
+#Práctica de GIT
 
-Repositorio Inicial para aplicaciones moviles
+Práctica en la cual se creó una rama llamada development y vamos a subir los cambios
